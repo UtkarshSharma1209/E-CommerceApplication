@@ -1,5 +1,3 @@
-# ecommerce-app-2023
-complete mern stack ecommerce project 2023 complete code
-# Please check branches source code is video no wise 
-## here is project playlist : https://youtube.com/playlist?list=PLuHGmgpyHfRzhGkSUfY0vpi67X64g0mXB
-## please like subscribe and share TechinfoYT youtube chaannel
+# Ecommerce Application
+#Step into the future of digital retail with our cutting-edge E-Commerce platform, meticulously crafted on the dynamic MERN(MongoDB, Express.js, React, Node.js) stack. Combining robust technology and user-centric design, we deliver an unparalleled online shopping experience. Join us and discover the next evolution in digital retail. 
+
