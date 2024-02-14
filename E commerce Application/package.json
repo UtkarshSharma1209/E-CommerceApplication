@@ -9,8 +9,8 @@
     "server": "nodemon server.js"
   },
   "keywords": [],
-  "author": "Techinfoyt",
-  "license": "MIT",
+  "author": "Utkarsh Sharma",
+  "license": "__",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "colors": "^1.4.0",
